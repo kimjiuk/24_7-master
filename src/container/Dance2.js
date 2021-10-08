@@ -133,7 +133,7 @@ class Dance2 extends React.Component{
              <ReactPlayer
               width="100%"
               padding-top="10px"
-              url='https://www.youtube.com/watch?v=7C2z4GqqS5E' controls/>
+              url='https://www.youtube.com/watch?v=dyRsYk0LyA8' controls/>
             </Half>
             <Half>
             <div><canvas id="canvas" /></div>

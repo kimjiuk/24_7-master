@@ -31,25 +31,25 @@ const Dance = ({history}) => {
     
     const images = [
     {  
-      url: '',
+      url: 'https://i.ytimg.com/vi/7C2z4GqqS5E/maxresdefault.jpg',
       title:'Dance1',
       siteurl: '/Dance1',
       width: '50%',
     },
     {
-      url: '',
+      url: 'https://i.ytimg.com/vi/3l5jwqPT2yk/maxresdefault.jpg',
       title: 'Dance2',
       siteurl: '/Dance2',
       width: '50%',
     },
     {
-      url: '',
+      url: 'https://dispatch.cdnser.be/cms-content/uploads/2021/08/29/5f9abfb5-1719-4433-8f06-cdc249be770f.jpg',
       title: 'Dance3',
       siteurl: '/Dance3',
       width: '50%',
     },
     {
-      url: '',
+      url: 'http://img2.sbs.co.kr/img/sbs_cms/VD/2015/06/22/VD40648993_w640_h360.jpg',
       title: 'Dance4',
       siteurl: '/Dance4',
       width: '50%',

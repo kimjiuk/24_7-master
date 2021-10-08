@@ -21,8 +21,7 @@ const Container = styled.div`
   color: white;
   background: linear-gradient(
       to right,
-      rgba(70, 50, 20, 0.5) 1%,
-      rgba(20, 20, 20, 0.7) 50%,
+      rgba(0, 0, 0, 1) 50%,
       rgba(20, 20, 20, 1)
     ),
     url();

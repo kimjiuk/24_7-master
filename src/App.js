@@ -4,7 +4,7 @@ import {BrowserRouter as Router, Route} from 'react-router-dom'; //React-router 
 import './App.css';
 
 import Main from "./container/Main";
-import Viewer from './container/Viewer';
+
 import About from './container/About';
 import Memo from './container/Memo';
 import Push_up from './container/Push_up';
@@ -38,7 +38,7 @@ function App() {
         <Router>
         <div> 
           <Route exact path="/" component={Main} /> 
-          <Route path="/viewer/" component={Viewer} />
+   
           <Route path="/about/" component={About}/> 
           <Route path="/memo/" component={Memo}/>
           <Route path="/squat/" component={Squat}/>

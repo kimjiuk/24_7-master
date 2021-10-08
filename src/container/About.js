@@ -20,7 +20,7 @@ const Container = styled.div`
       rgba(20, 20, 20, 0.7) 70%,
       rgba(20, 20, 20, 1)
     ),
-    url(http://image.chosun.com/sitedata/image/201801/11/2018011101776_0.jpg);
+    url(https://mblogthumb-phinf.pstatic.net/20140925_3/ilomarta_1411621791293SMbJl_JPEG/10259044973_76ef605311_o.jpg?type=w2);
   background-size: cover;
 `;
 
